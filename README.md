@@ -10,3 +10,5 @@ Required:
 Click on start!
 
 NOTE: Leave the tool running, it could take hours depending on the amount of keywords and payment providers you are searching.
+
+<img src="https://i.ibb.co/vkc7tx1/cardable-webshop-finder.gif" width="800">
