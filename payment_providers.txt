@@ -1,0 +1,4 @@
+adyen
+stripe
+shopify
+mollie
